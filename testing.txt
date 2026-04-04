@@ -1,0 +1,9 @@
+1. The Core Testing Process (STLC)
+Testing is typically structured through the Software Testing Life Cycle (STLC), which includes these stages: 
+Requirement Analysis: Testers analyze the product requirements to identify what needs to be tested.
+Test Planning: A strategy is created, outlining the scope, objectives, resources, and schedule.
+Test Design: Testers create detailed test cases—scenarios with input, steps, and expected results.
+Test Environment Setup: A hardware and software environment is prepared that mirrors the production environment to run tests.
+Test Execution: Testers run the test cases (manually or via automation) and compare the actual results with the expected results.
+Bug Reporting: Defects are reported to developers, fixed, and then re-tested to ensure the issue is resolved.
+Test Closure: The team analyzes the results to ensure exit criteria are met and the product is ready for release. 
